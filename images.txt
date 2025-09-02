@@ -5,3 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 nginx:alpine
 --platform=linux/arm64 vaultwarden/server:latest
+snowdreamtech/frpc:debian
